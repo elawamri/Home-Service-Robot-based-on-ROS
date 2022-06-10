@@ -64,5 +64,5 @@ environment with our mobile robot and the designed world
 $ cd /home/workspace/catkin_ws/
 $ source devel/setup.bash
 $ cd src/scripts
-$ cd ./home_service.sh
+$ ./home_service.sh
 ```
